@@ -1,3 +1,2 @@
 Exemplo de inserção em arquivo texto
 LINUX
-HELLO WORLD !
